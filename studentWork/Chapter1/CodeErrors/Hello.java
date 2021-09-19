@@ -1,4 +1,4 @@
-package studentWork.Chp1.CodeErrors;
+package studentWork.Chapter1.CodeErrors;
 
 public class Hello {
     public static void main(String[] args) {
