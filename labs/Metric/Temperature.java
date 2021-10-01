@@ -2,7 +2,7 @@ package labs.Metric;
 
 public class Temperature {
 
-    public static void main(String[] Strings) {
+    public static void main(String[] args) {
 
         // Input a temperature in Fahrenheit
 
