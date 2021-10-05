@@ -6,8 +6,8 @@ public class Temperature {
 
         // Input a temperature in Fahrenheit
 
-        double fahrenheit = 95;
-        double  celsius = 0;
+        double fahrenheit = -40;
+        double  celsius = -40;
         
         // Calcuate temperature in Celsius
 
