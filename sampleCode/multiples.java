@@ -1,4 +1,4 @@
-package studentWork.loops;
+package sampleCode;
 
 import java.util.Scanner;
 
