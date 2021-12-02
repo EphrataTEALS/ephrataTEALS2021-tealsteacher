@@ -10,17 +10,13 @@ public class HockeyStats {
         Scanner periods = new Scanner(System.in);
         
         System.out.println("What Teams are playing? ");
-        System.out.println("Home Team? ");
+        System.out.println("Home Team: ");
         String team1 = team.next();
-        System.out.println("Away Team? ");
+        System.out.println("Away Team: ");
         String team2 = team.next();
 
         System.out.println("How many periods have been played so far? ");
         int periodsPlayed = periods.nextInt();
-        //System.out.println("Number of periods played: " + periodsPlayed);
-
-        //String homeTeam = TotalGoals(team1, periodsPlayed);
-        //String awayTeam = TotalGoals(team2, periodsPlayed);
 
         System.out.println(TotalGoals(team1, periodsPlayed));
         System.out.println();
