@@ -16,6 +16,20 @@ public class ParseString {
         System.out.println(endJava);
 
 
+        //ASCII
+        
+        char c = 'h';
+        System.out.println(c + 1);
+        System.out.println(c + c);
+        //https://www.ascii-code.com/
+
+        String s = "h";
+        System.out.println(s + 1);
+        System.out.println(s + s);
+
+
+
+
     }
     
 }
