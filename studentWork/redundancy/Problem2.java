@@ -1,3 +1,4 @@
+package studentWork.redundancy;
 
 import java.util.Scanner;
 
